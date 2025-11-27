@@ -154,9 +154,9 @@ SQL code ran using DuckDB driver in DBeaver.
 ```
 
 ## Contact and Collaboration
-**Author**: Precious Enahoro
-**GitHub**: @PreciousEnahoro
-**Linkedin**: (https://www.linkedin.com/in/precious-enahoro/)
+- **Author**: Precious Enahoro
+- **GitHub**: @PreciousEnahoro
+- **Linkedin**: (https://www.linkedin.com/in/precious-enahoro/)
 
 **Collaboration Welcome**: 
 - Open to feedback and suggestions
@@ -167,6 +167,5 @@ SQL code ran using DuckDB driver in DBeaver.
 - Inspired by @TrevorW's sharing of how he started to think about the financial taxonomies on Slack!
 ---
 
-**Last Updated**: 11/26/2025
-**Status**: In Progress
+**Last Updated**: 11/26/2025 | **Status**: In Progress
 
