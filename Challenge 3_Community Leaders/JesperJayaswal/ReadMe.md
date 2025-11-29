@@ -2,7 +2,9 @@ v3 Information:
 	
 	This code generates datasets for an interactive dashboard that can be used to find the user IDs of community leaders by topic.
 
-    Link to dashboard: https://lookerstudio.google.com/reporting/80f5d502-9839-4e28-b6e2-72f8e34d38d6
+    Link to dashboard: 
+        https://lookerstudio.google.com/reporting/80f5d502-9839-4e28-b6e2-72f8e34d38d6
+        (FYI it can take a few minutes to load the data into the dashboard)
 
 	Code:
 		Challenge3_Jesper_v3_Leaders_by_topic_Dashboard.ipynb 
